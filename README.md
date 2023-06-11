@@ -1,1 +1,1 @@
-# This file is mandatory in projects
+readme for 0x00-vagrant
